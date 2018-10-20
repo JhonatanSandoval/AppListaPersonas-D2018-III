@@ -34,6 +34,7 @@ public class ListaPersonasAdapter extends RecyclerView.Adapter<ListaPersonasAdap
         return personaHolder;
     }
 
+    // iodijopasdjopiadopijdopj
     @Override
     public void onBindViewHolder(@NonNull PersonaHolder personaHolder, int position) {
         PersonaModel persona = listaPersonas.get(position);
